@@ -1,0 +1,7 @@
+temp
+entrada.txt
+saida.txt
+antlr/.antlr
+**/__pycache__
+src/lexer/Treino*
+.vscode
